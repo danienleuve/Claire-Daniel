@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Illustration inspirée du Japon : mont Fuji, torii, train, cerisier et bol de ramen">
+<rect width="900" height="620" fill="#f8f0df"/>
+<path d="M0 470 Q160 425 300 465 T600 455 T900 470 V620 H0Z" fill="#dfe2c9" opacity=".65"/>
+<!-- Mount Fuji -->
+<path d="M105 430 L330 115 L555 430Z" fill="#e8e2d5" stroke="#75431f" stroke-width="5" stroke-linejoin="round"/>
+<path d="M330 115 L270 198 L307 187 L330 217 L355 184 L397 202Z" fill="#fffaf0"/>
+<path d="M245 292 Q330 255 415 292" fill="none" stroke="#d9b6a2" stroke-width="6" opacity=".7"/>
+<!-- Torii -->
+<g fill="none" stroke="#e47848" stroke-width="18" stroke-linecap="round">
+ <path d="M600 430 V255 M770 430 V255"/>
+ <path d="M570 270 Q685 242 800 270"/>
+ <path d="M590 305 Q685 284 780 305"/>
+</g>
+<!-- Train -->
+<g transform="translate(75 405)">
+ <path d="M0 30 Q20 0 58 0 H245 Q275 0 300 30 V102 H0Z" fill="#f3eee0" stroke="#75431f" stroke-width="5"/>
+ <path d="M15 30 H275" stroke="#e47848" stroke-width="12"/>
+ <rect x="35" y="43" width="55" height="32" rx="5" fill="#b9c8c3" stroke="#75431f" stroke-width="4"/>
+ <rect x="110" y="43" width="55" height="32" rx="5" fill="#b9c8c3" stroke="#75431f" stroke-width="4"/>
+ <rect x="185" y="43" width="55" height="32" rx="5" fill="#b9c8c3" stroke="#75431f" stroke-width="4"/>
+ <circle cx="55" cy="110" r="22" fill="#75431f"/><circle cx="245" cy="110" r="22" fill="#75431f"/>
+</g>
+<!-- Sakura -->
+<g fill="#e89a9a" stroke="#75431f" stroke-width="2">
+ <circle cx="670" cy="90" r="14"/><circle cx="710" cy="120" r="12"/><circle cx="760" cy="78" r="15"/><circle cx="815" cy="130" r="12"/><circle cx="735" cy="170" r="11"/><circle cx="825" cy="185" r="13"/>
+</g>
+<path d="M645 210 Q735 135 855 225" fill="none" stroke="#75431f" stroke-width="7"/>
+<!-- Ramen bowl -->
+<g transform="translate(615 470)">
+ <path d="M0 0 Q80 45 160 0 L145 75 Q80 115 15 75Z" fill="#e47848" stroke="#75431f" stroke-width="5"/>
+ <path d="M20 15 Q80 45 140 15" fill="none" stroke="#75431f" stroke-width="5"/>
+ <path d="M45 -10 Q30 -60 55 -78 M80 -8 Q65 -65 90 -88 M115 -10 Q100 -55 125 -75" fill="none" stroke="#b66f48" stroke-width="5" stroke-linecap="round"/>
+</g>
+<!-- little sun -->
+<circle cx="180" cy="95" r="42" fill="#e47848" opacity=".9"/>
+<g stroke="#e47848" stroke-width="5" stroke-linecap="round">
+ <path d="M180 35V18 M180 172V155 M120 95H103 M257 95H240 M138 53L126 41 M222 137L234 149 M222 53L234 41 M138 137L126 149"/>
+</g>
+<!-- doodles -->
+<g fill="none" stroke="#75431f" stroke-width="4" opacity=".75">
+ <path d="M55 520 q25 -30 50 0 q-25 25 -50 0Z"/>
+ <path d="M510 525 q22 -25 44 0"/>
+ <path d="M515 510 l15 -15 l15 15"/>
+</g>
+</svg>
