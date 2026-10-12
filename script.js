@@ -2,7 +2,7 @@
 const CONFIG = {
   potUrl: "#", // Remplacer par le lien de votre cagnotte
   rsvpEmail: "A_REMPLACER_PAR_VOTRE_EMAIL", // option de secours par e-mail
-  googleSheetEndpoint: "https://script.google.com/macros/s/AKfycbwdAHY7X-DdLRSUW8D8HefccGuIa16MLY69DW0AcNkEcT0J-urvIQI7XTBExaPJCAo9/exec" // Coller ici l’URL /exec du script Google Apps Script
+  googleSheetEndpoint: "https://script.google.com/macros/s/AKfycbz3wJZdhlbt6yisrAT9Oiq9bTcMmSfzAw_C4kwflh3k7yqj7qmE77hdhZfSu-p9TKXk/exec" // Coller ici l’URL /exec du script Google Apps Script
 };
 
 const potLink = document.getElementById("pot-link");
