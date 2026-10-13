@@ -1,6 +1,6 @@
 // Claire & Daniel — V2 mise à jour
 const CONFIG = {
-  potUrl: "#", // Remplacer par le lien de votre cagnotte
+  potUrl: "https://www.onparticipe.fr/c/VnqPGEVM", // Remplacer par le lien de votre cagnotte
   rsvpEmail: "A_REMPLACER_PAR_VOTRE_EMAIL", // option de secours par e-mail
   googleSheetEndpoint: "https://script.google.com/macros/s/AKfycbz3wJZdhlbt6yisrAT9Oiq9bTcMmSfzAw_C4kwflh3k7yqj7qmE77hdhZfSu-p9TKXk/exec" // Coller ici l’URL /exec du script Google Apps Script
 };
